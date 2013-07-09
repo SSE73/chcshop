@@ -1,0 +1,8 @@
+User.create(name: 'dave', password: 'secret',password_confirmation: 'secret')
+
+depot> rails console
+Loading development environment.
+>> User.create(name: 'dave', password: 'secret',password_confirmation: 'secret')
+=> #<User:0x2933060 @attributes={...} ... >
+>> User.count
+=> 1

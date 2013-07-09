@@ -1,0 +1,12 @@
+Сведения об ошибке на веб-странице
+
+Агент пользователя: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; InfoPath.1; .NET4.0C; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30)
+штамп времени: Wed, 3 Jul 2013 12:44:54 UTC
+
+
+Сообщение: Синтаксическая ошибка
+Строка: 23
+Символ: 1
+Код: 0
+URI-код: http://localhost:3000/assets/application.js?body=1
+
