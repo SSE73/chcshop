@@ -31,3 +31,4 @@ class ActiveSupport::TestCase
     login_as :one if defined? session
   end
 end
+#мой коммент ССЕ
